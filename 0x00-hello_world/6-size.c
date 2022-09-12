@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * Get the ize of characters and print on the screen.
+ * main - Get the ize of characters and print on the screen.
  *
- * Return 0 for success.
+ * Return: Always 0 (success)
  */
 int main(void)
 {
